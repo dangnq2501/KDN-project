@@ -16,3 +16,5 @@ This project implements two advanced deep learning applications:
   
 ### Virtual Try-On
 ![Result](images/viton_result.jpg)
+
+### [Video](https://drive.google.com/file/d/1wh_bNCSaD7WTPXNuA14XUg5_dOQDMGzl/view?usp=drive_link) 
